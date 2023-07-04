@@ -1,0 +1,6 @@
+ <head>你好世界，我是卷心酸菜鱼.</head>
+<body style="margin:0;">
+<kwc style="background:red;display:block;">来自中国的一个18岁的女性</kwc>
+<p style="background:red;">很高兴认识你</p>
+</body>
+</html>
